@@ -16,7 +16,7 @@ The project is organized into Gooogle Colab:
 
 
 ## Model Evaluation
-We trained a Random Forest Classifier for this project. The model's performance was evaluated using various metrics, including accuracy, precision, recall, F1-score, and ROC AUC. You can find these evaluation results in the project's code files and notebooks.
+tTrained a Random Forest Classifier for this project. The model's performance was evaluated using various metrics, including accuracy, precision, recall, F1-score, and ROC AUC. You can find these evaluation results in the project's code files and notebooks.
 
 ## Conclusion and Suggestions
 Based on the model's predictions, we can answer several key questions:
@@ -30,9 +30,4 @@ These insights can help optimize lead conversion rates and lead management effic
 ## License
 This project is licensed under the MIT License.
 
-## Getting Started
 
-To run this project, you will need Python and the required libraries. Install dependencies using the following command:
-
-```bash
-pip install -r requirements.txt
