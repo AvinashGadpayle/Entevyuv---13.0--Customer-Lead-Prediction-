@@ -22,10 +22,10 @@ To run this project, you will need Python and the required libraries. Install de
 ```bash
 pip install -r requirements.txt
 
-Model Evaluation
+## Model Evaluation
 We trained a Random Forest Classifier for this project. The model's performance was evaluated using various metrics, including accuracy, precision, recall, F1-score, and ROC AUC. You can find these evaluation results in the project's code files and notebooks.
 
-Conclusion and Suggestions
+## Conclusion and Suggestions
 Based on the model's predictions, we can answer several key questions:
 
 Which leads are most likely to convert into paying customers?
